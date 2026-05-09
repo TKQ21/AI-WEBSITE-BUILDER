@@ -290,6 +290,77 @@ Deployed using Netlify.
 ## License
 
 Licensed under the MIT License.
+SmileCare Dental Clinic Website
+
+A modern and responsive Dental Clinic website designed for hospitals, clinics, dentists, and healthcare professionals to provide a seamless online healthcare experience.
+
+Live Demo
+Website: https://smilecare-dental-clinic-68p.caffeine.xyz/
+Features
+Modern Healthcare UI
+Fully Responsive Design
+Appointment Booking Section
+Doctor Profiles
+Patient-Friendly Interface
+Contact & Consultation Form
+Clean and Professional Layout
+Mobile Optimized Experience
+Tech Stack
+HTML5
+CSS3
+JavaScript
+Responsive Web Design
+Modern UI/UX
+Screenshots
+
+Add screenshots here.
+
+/assets/clinic-homepage.png
+Installation
+
+Clone the repository:
+
+git clone https://github.com/your-username/clinic-website.git
+
+Open project folder:
+
+cd clinic-website
+
+Run locally:
+
+Open index.html in browser
+Folder Structure
+clinic-website/
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+└── README.md
+Best For
+Dental Clinics
+Hospitals
+Healthcare Centers
+Doctors & Dentists
+Medical Startups
+Core Sections
+Hero Section
+About Clinic
+Services
+Doctors Team
+Appointment Booking
+Testimonials
+Contact Section
+Future Enhancements
+Online Patient Portal
+Payment Gateway
+Admin Dashboard
+Live Chat Support
+AI Appointment Assistant
+Backend Integration
+Deployment
+
+Deployed using modern cloud hosting.
 
 ## 🧑‍💻 Author
 
