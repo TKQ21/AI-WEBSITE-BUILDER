@@ -1,36 +1,296 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🍽 AI Restaurant Website
 
-## Getting Started
+A premium international-style restaurant website with modern UI, dynamic menu system, and smart features like chatbot and order tracking.
 
-First, run the development server:
+---
+
+## 🚀 Features
+
+* 🌌 Animated background with modern UI
+* 🍔 Dynamic Menu (Google Sheets integration)
+* 🔍 Live Search functionality
+* 🛒 Order system (frontend ready)
+* 📦 Order Tracking (basic)
+* 💳 UPI QR Code Payment
+* 📍 Google Maps integration
+* 🤖 AI Chatbot (basic + extendable)
+* 🖼 Auto food images using API
+* 📱 Fully responsive design
+
+---
+
+## 🧠 Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+## 🔗 Integrations
+
+* Google Sheets (Menu & Orders)
+* Pexels API (Food Images)
+* (Planned) n8n for automation
+* (Planned) WhatsApp API
+
+---
+
+## ⚡ How It Works
+
+1. Menu items are fetched from Google Sheets
+2. Images are dynamically loaded using API
+3. Users can search and browse menu
+4. Orders can be placed via form
+5. Payment is done via UPI QR code
+6. Chatbot helps users with queries
+
+---
+
+## 📦 Future Improvements
+
+* Real-time order tracking with n8n
+* WhatsApp order confirmation
+* Payment gateway integration (Razorpay)
+* Full AI chatbot integration
+
+---
+
+## 🌍 Live Demo
+
+[Live Website](https://urbanbite-kitchen.netlify.app/)
+
+---
+
+
+## 1. Manufacturer / Supplier / Trader Website README
+
+# Manufacturer Website
+
+A modern business website built for **Manufacturers, Suppliers, and Traders** to showcase products, services, company profile, and customer engagement online.
+
+## Live Demo
+
+* Website: [https://manufacturer-website.netlify.app/](https://manufacturer-website.netlify.app/)
+
+---
+
+## Features
+
+* Responsive Modern UI
+* Product Showcase Section
+* Company Profile
+* Services Section
+* Contact Form
+* Mobile Friendly Design
+* Fast Loading Website
+* Professional Business Layout
+
+---
+
+## Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Design
+* Netlify Deployment
+
+---
+
+## Screenshots
+
+Add your project screenshots here.
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+/assets/screenshot.png
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Clone the repository:
 
-## Learn More
+```bash
+git clone https://github.com/your-username/manufacturer-website.git
+```
 
-To learn more about Next.js, take a look at the following resources:
+Open the project folder:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+cd manufacturer-website
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Run the project locally:
 
-## Deploy on Vercel
+```bash
+Open index.html in browser
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Project Structure
+
+```bash
+manufacturer-website/
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+└── README.md
+```
+
+---
+
+## Use Case
+
+This website is suitable for:
+
+* Manufacturing Companies
+* Industrial Suppliers
+* Product Traders
+* Export Businesses
+* B2B Companies
+
+---
+
+## Deployment
+
+Project deployed on Netlify.
+
+---
+
+## Future Improvements
+
+* Admin Dashboard
+* Product Filtering
+* WhatsApp Integration
+* SEO Optimization
+* Backend Integration
+* Database Support
+
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+# 2. Gym Website README
+
+# Gym & Fitness Website
+
+A modern and responsive Gym & Fitness website designed for fitness centers, gyms, trainers, and health clubs.
+
+## Live Demo
+
+* Website: [https://g-demo.netlify.app/](https://g-demo.netlify.app/)
+
+---
+
+## Features
+
+* Modern Fitness UI
+* Fully Responsive Design
+* Membership Plans Section
+* Trainer Showcase
+* BMI / Fitness Information
+* Contact Section
+* Smooth Animations
+* Mobile Friendly Layout
+
+---
+
+## Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Web Design
+* Netlify Hosting
+
+---
+
+## Screenshots
+
+Add screenshots here.
+
+```bash
+/assets/gym-homepage.png
+```
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/gym-website.git
+```
+
+Open project folder:
+
+```bash
+cd gym-website
+```
+
+Run locally:
+
+```bash
+Open index.html in browser
+```
+
+---
+
+## Folder Structure
+
+```bash
+gym-website/
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+└── README.md
+```
+
+---
+
+## Best For
+
+* Fitness Centers
+* Personal Trainers
+* Health Clubs
+* Gym Startups
+* Workout Studios
+
+---
+
+## Deployment
+
+Deployed using Netlify.
+
+---
+
+## Future Enhancements
+
+* Online Membership System
+* Payment Gateway
+* Workout Schedule
+* Diet Plan Integration
+* User Login System
+* Backend Dashboard
+
+
+---
+
+## License
+
+Licensed under the MIT License.
+
+## 🧑‍💻 Author
+
+Developed by Mohd Kaif 🚀
