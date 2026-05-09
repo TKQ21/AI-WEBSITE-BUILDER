@@ -63,7 +63,7 @@ A premium international-style restaurant website with modern UI, dynamic menu sy
 ---
 
 
-## 1. Manufacturer / Supplier / Trader Website README
+## Manufacturer / Supplier / Trader Website 
 
 # Manufacturer Website
 
@@ -178,8 +178,6 @@ Project deployed on Netlify.
 
 This project is licensed under the MIT License.
 
-# 2. Gym Website README
-
 # Gym & Fitness Website
 
 A modern and responsive Gym & Fitness website designed for fitness centers, gyms, trainers, and health clubs.
@@ -290,6 +288,7 @@ Deployed using Netlify.
 ## License
 
 Licensed under the MIT License.
+
 SmileCare Dental Clinic Website
 
 A modern and responsive Dental Clinic website designed for hospitals, clinics, dentists, and healthcare professionals to provide a seamless online healthcare experience.
