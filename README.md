@@ -63,7 +63,7 @@ A premium international-style restaurant website with modern UI, dynamic menu sy
 ---
 
 
-## 1. Manufacturer / Supplier / Trader Website README
+## 1. Manufacturer / Supplier / Trader Website 
 
 # Manufacturer Website
 
